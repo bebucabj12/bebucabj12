@@ -1,7 +1,7 @@
 # Berenice Bedechian - Desarrolladora de software
 ### Hola 👋
 Me llamo Berenice, trabajo como desarrolladora de ERP de Oracle para Adistec. 
-Estudie en distintas escuelas de desarrollo los cuales aqui encontrarás varios repos con trabajos finales. En este momento sigo mi aprendizaje tanto autodidacta como realizando distintos cursos que me voy encontrando en este camino, que me generan curiosidad y ganas de seguir aprendiendo como desde el primer día. Paralelamente me encuentro cursando la tecnicatura en Programación en UTN. 🧠
+Estudie en distintas escuelas de desarrollo los cuales aqui encontrarás varios repos con trabajos finales. En este momento sigo mi aprendizaje tanto autodidacta como realizando distintos cursos que me voy encontrando en este camino, que me generan curiosidad y ganas de seguir aprendiendo como el primer día. Paralelamente me encuentro cursando la tecnicatura en Programación en UTN. 🧠
 
 ### Algunos skills que he aprendido a lo largo de mi camino como desarrolladora
 Mis skills están orientados a JavaScript tanto el Front como el Back-End. 💖
