@@ -17,6 +17,6 @@ Comenzando aprendizaje en GoLang y C++ 💪
 
 ## Contacto
 
-Si querés contactarte conmigo podes hacerlo a travéz de mi cuenta profesional ✨ [LinkedIn](https://www.linkedin.com/in/berenice-bedehcian/) 
+Si querés contactarte conmigo podes hacerlo a travéz de mi cuenta profesional de [LinkedIn](https://www.linkedin.com/in/berenice-bedehcian/) ✨
 
 **Por una vida llena de códigos! 👩‍💻 🥂**
